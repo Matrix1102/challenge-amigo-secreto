@@ -4,9 +4,9 @@ Para este desafio se dearrollará una aplicación que permita a los usuarios ing
 
 ## Funcionalidades
 
-'''
+```
     - Agregar nombres
     - Validar entradas
     - Visualizar la lista
     - Sorteo Aleatorio
-'''
+```
